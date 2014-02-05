@@ -1,0 +1,69 @@
+<HTML>
+<HEAD>
+	<TITLE>Crosswinds</TITLE>
+	
+	<STYLE>
+		span{
+			color:blue;
+			}
+	</STYLE>
+</HEAD>
+<BODY STYLE="font-family:Serif;">
+
+	<DIV STYLE="width:10%; height:80%; background-color:black; position:fixed; margin-left:-1px; color:grey;">
+		<p>logo</p>
+		<BR><BR>
+		<P>LIVING</P>
+		<P>DINING</P>
+		<P>TOURING</P>
+		<P>MEETINGS</P>
+		<P>EXPERIENCE</P>
+		<P>PHOTO GALLERY</P>
+		<br>
+		<P>BOOK NOW</P>
+		
+	</DIV>
+	<DIV STYLE="width:90%; height:15%; background-color:yellow; margin-left:10%;">
+		<CENTER>
+		<H1>HOTEL BANNER</H1>
+		</CENTER>
+	</DIV>
+	
+	<DIV STYLE="width:55%; height:500px; background-color:#3dfcd0; display:inline-block; margin-left:10%;margin-right:-4px">
+		<CENTER>
+		<H1>3 images</H1>
+		</CENTER>
+	</DIV>
+	
+	<DIV STYLE="width:35%; height:500px; background-color:#7fd1a7; display:inline-block;">
+		<CENTER>
+		<H1>book dates</H1>
+		</CENTER>
+	</DIV>
+	
+	<DIV STYLE="width:25%; height:350px; background-color:#000000; display:inline-block; margin-left:10%; margin-right:-4px; color:white;">
+		<CENTER>
+		<br><br><br>
+		<P>Pack your bags and <SPAN>DISCOVER</SPAN> the <SPAN>PHILIPPINES</SPAN> now.</P>
+		</CENTER>
+	</DIV>
+	
+	<DIV STYLE="width:65%; height:350px; background-color:#996600; display:inline-block;">
+		<CENTER>
+		<H1>about hotel</H1>
+		</CENTER>
+	</DIV>
+	
+	<DIV STYLE="width:35%; height:150px; background-color:red; display:inline-block; margin-left:10%; margin-right:-4px">
+		<CENTER>
+		<H1>connect to us</H1>
+		</CENTER>
+	</DIV>
+	
+	<DIV STYLE="width:55%; height:150px; background-color:black; color:white; display:inline-block;">
+		<CENTER>
+		<H1>contact us</H1>
+		</CENTER>
+	</DIV>
+</BODY>
+</HTML>
